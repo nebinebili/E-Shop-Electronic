@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Guest.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Notebook.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Equipment.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Motherboard.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Motherboard.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Phone.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Catagory.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Memory.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Memory.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(165,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Source.cpp(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\SourceFunctions.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Shop Project\Shop Project\SourceFunctions.h(203,10): warning C4101: 'quantity': unreferenced local variable
+C:\Users\Admin\source\repos\Shop Project\Shop Project\SourceFunctions.h(205,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\Admin\source\repos\Shop Project\Shop Project\SourceFunctions.h(867,6): warning C4101: 'id': unreferenced local variable
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Source.cpp(20,7): warning C4101: 'key': unreferenced local variable
+C:\Users\Admin\source\repos\Shop Project\Shop Project\Database.h(89): warning C4715: 'Stock::getProductById': not all control paths return a value
+  Shop Project.vcxproj -> C:\Users\Admin\source\repos\Shop Project\Debug\Shop Project.exe
